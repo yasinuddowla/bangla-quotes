@@ -1,6 +1,6 @@
 ## Bangla Quotes
 
-Site: quotes.yasinuddowla.com
+Site: [quotes.yasinuddowla.com](quotes.yasinuddowla.com)
 
 ### Credit:
 
